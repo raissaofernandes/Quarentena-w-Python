@@ -6,4 +6,4 @@
   3. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.get_dummies.html
 
 ## Conjuntos de dados interessantes
-  1. Portal brasileiro de dados abertos: http://www.dados.gov.br/
+  1. Portal Brasileiro de Dados Abertos: http://www.dados.gov.br/
