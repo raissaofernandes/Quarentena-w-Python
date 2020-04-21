@@ -1,4 +1,5 @@
 # Quarentena-w-Python
+Python, Pandas, Jupyter Notebook e análise de dados.
 
 ## Links para documentação do Pandas 
   1. https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#deprecate-loc-reindex-listlike'
